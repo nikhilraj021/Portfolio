@@ -14,7 +14,7 @@ const Navbar = () => {
   ];
 
   return (
-    <nav className="h-20 px-4 text-white bg-black flex items-center justify-between w-full fixed">
+    <nav className="h-20 px-4 md:px-24 text-white bg-black bg-opacity-100 flex items-center justify-between w-full fixed z-50">
       <div>
         <h1 className="text-5xl font-signature ml-2">Nikhilraj</h1>
       </div>

@@ -4,7 +4,7 @@ const Contact = () => {
   return (
     <div
       name="contact"
-      className=" bg-gradient-to-b from-black to-gray-800 p-4 text-white pt-20"
+      className=" bg-gradient-to-b from-black to-gray-800 px-4 md:px-24 text-white pt-20"
     >
       <div>
         <h1 className="text-4xl inline font-bold border-b-4 border-gray-500 p-2">
