@@ -2,6 +2,7 @@ import React from "react";
 import { RiDownload2Fill } from "react-icons/ri";
 import { TypeAnimation } from "react-type-animation";
 import profile from "../assets/heroImage.jpeg";
+import hero from '../assets/hero.jpeg'
 const Home = () => {
   return (
     <div
@@ -55,7 +56,7 @@ const Home = () => {
         </div>
       </div>
       <div className="hidden md:flex">
-        <img src={profile} alt="profile" className="rounded-2xl h-80 w-full" />
+        <img src={hero} alt="profile" className="rounded-2xl md:h-80 lg:h-96 shadow-2xl shadow-white" />
       </div>
     </div>
   );

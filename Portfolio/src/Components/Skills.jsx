@@ -26,7 +26,7 @@ const Skills = () => {
       name="skills"
       className="  bg-gradient-to-b from-black to-gray-800 pt-16"
     >
-      <div className="p-4  flex flex-col justify-center text-white w-full h-full mx-auto md:px-8 lg:px-20 xl:px-40">
+      <div className="p-4 flex flex-col justify-center text-white w-full h-full mx-auto md:px-8 lg:px-20 xl:px-40">
         <div>
           <h1 className="text-4xl inline font-bold border-b-4 border-gray-500 p-2">
             Skills
