@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 const Experience = () => {
   const EXPERIENCES = [
     {
-      year: "2025 - Present",
+      year: "Jan,2025 - Present",
       role: "Full Stack Intern",
       company: "Estaval.Ai",
       description: `Assisted in developing web applications using JavaScript, React.js, and Node.js. Collaborated with team on bug fixes, built multiple responsive pages, and maintained project documentation..`,
