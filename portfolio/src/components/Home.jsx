@@ -78,8 +78,7 @@ const Home = () => {
           className="text-stone-200 text-xl xl:text-2xl  "
         >
           I'm a passionate software developer specializing in Mern-stack
-          development with expertise in JavaScript, React, and Node.js. With
-          1year of experience, I focus on building user-friendly applications
+          development with expertise in JavaScript, React, and Node.js. I focus on building user-friendly applications
           and writing clean code. I’m passionate about continuous learning and
           collaboration. Check out my portfolio to see my work!
         </motion.p>
