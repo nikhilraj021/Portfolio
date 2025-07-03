@@ -33,7 +33,7 @@ const Navbar = () => {
   return (
     <nav className="flex items-center justify-between py-6">
       <div className="flex flex-shrink-0 items-center">
-        <a href="#" aria-label="Home">
+        {/* <a href="#" aria-label="Home">
           <img
             src={logo}
             alt="Logo"
@@ -41,8 +41,9 @@ const Navbar = () => {
             height={50}
             width={80}
           />
-          {/* <h1 className="text-5xl font-signature ml-2">Nikhilraj</h1> */}
-        </a>
+        </a> */}
+        <h1 className="text-4xl font-bold font-signature ml-2">Nikhilraj Dumpeti</h1>
+
       </div>
 
       <div className="m-8 flex items-center gap-4 justify-center text-2xl">

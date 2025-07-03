@@ -39,9 +39,9 @@ const Home = () => {
             transition={{ duration: 1, delay: 1.0 }}
             className="border border-stone-900 rounded-3xl shadow-slate-100 shadow-2xl h-80 md:h-96 xl:h-[500px]"
           />
-          <h1 className="text-3xl md:text-4xl xl:text-5xl font-signature ml-2">
+          {/* <h1 className="text-3xl md:text-4xl xl:text-5xl font-signature ml-2">
             Dumpeti Nikhilraj
-          </h1>
+          </h1> */}
         </div>
       </div>
 

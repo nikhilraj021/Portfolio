@@ -5,9 +5,16 @@ const Experience = () => {
   const EXPERIENCES = [
     {
       year: "Jan,2025 - Present",
-      role: "Full Stack Intern",
-      company: "Estaval.Ai",
-      description: `Assisted in developing web applications using JavaScript, React.js, and Node.js. Collaborated with team on bug fixes, built multiple responsive pages, and maintained project documentation..`,
+      role: "Full Stack Developer",
+      company: "Blackcoat.Ai",
+      description: `Assisted in developing web applications using React.js, Javascript, Tailwindcss, Vite, and Firebase. Collaborated with team on bug fixes, built multiple responsive pages, and maintained project documentation. Utilized AI tool like Windsurf to increase development efficiency and accuracy..`,
+      technologies: ["Javascript", "React.js", "TailwindCSS", "Node.js", "Firebase", "Vite", "Express.js", "MongoDB", "MySQL", "Git", "Github"],
+    },
+    {
+      year: "Mar,2024 - Jan,2025",
+      role: "Associate Software Developer",
+      company: "SpyD Technologies Pvt.Ltd.",
+      description: "Assisted in developing web applications using JavaScript, React.js, and Node.js. Collaborated with team on bug fixes, built multiple responsive pages, and maintained project documentation..",
       technologies: ["Javascript", "React.js", "TailwindCSS", "Node.js"],
     },
   ];
@@ -17,7 +24,7 @@ const Experience = () => {
         whileInView={{ opacity: 1, y: 0 }}
         initial={{ opacity: 0, y: -100 }}
         transition={{ duration: 0.5 }}
-        className="my-10 text-center text-4xl font-paint"
+        className="my-10 text-center text-4xl font-bold"
       >
         Experience
       </motion.h2>

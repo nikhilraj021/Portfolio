@@ -9,7 +9,7 @@ const Contact = () => {
           whileInView={{ opacity: 1, y: 0 }}
           initial={{ opacity: 0, y: -100 }}
           transition={{ duration: 0.5 }}
-          className="my-5 text-center text-4xl font-paint"
+          className="my-5 text-center text-4xl font-bold"
         >
           Contact
         </motion.h2>

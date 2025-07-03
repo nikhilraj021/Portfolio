@@ -8,7 +8,8 @@ export default {
     extend: {},
     fontFamily:{
       signature: ["Great Vibes"],
-      paint : ["Rubik Wet Paint"]
+      paint : ["Rubik Wet Paint"],
+      combo : ["Combo"],
     }
   },
   plugins: [],
